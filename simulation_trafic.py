@@ -7,8 +7,6 @@
 #          Les utilisateurs peuvent ajouter/retirer des obstacles avec la souris.
 # @author Sokhna Oumou DIOUF
 # @author Rym BENOUMECHIARA
-# @author Serigne Abdoulaye DIAO
-# @author Daouda Sognoume COULIBALY
 # @date 2025-04-06 
 
 import pygame
